@@ -39,8 +39,8 @@
     }
     </style>
 </head>
-
 <body>
+
     <ul class="nav justify-content-end">
         <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Active</a>
@@ -57,6 +57,7 @@
     </ul>
 
     <h1 class="text-center display-4 my-4">Mikey</h1>
+    <h3>Bonjour</h3>
  <div class="container">
 
  <form class="row g-3">
