@@ -35,6 +35,7 @@
     #img {
         height: 20%;
         width: 20%;
+        
     }
     </style>
 </head>
@@ -85,8 +86,10 @@
 
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat voluptatum quod esse inventore impedit pariatur consequatur aperiam cupiditate est repudiandae explicabo sit debitis nostrum hic ipsum quidem vel itaque id dignissimos, labore doloribus accusantium ducimus. Voluptatem sint accusantium dolor, vel quas doloremque praesentium blanditiis suscipit!
     </p>
-
-
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat voluptatum quod esse inventore impedit pariatur consequatur aperiam cupiditate est repudiandae explicabo sit debitis nostrum hic ipsum quidem vel itaque id dignissimos, labore doloribus accusantium ducimus. Voluptatem sint accusantium dolor, vel quas doloremque praesentium blanditiis suscipit!
+    </p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat voluptatum quod esse inventore impedit pariatur consequatur aperiam cupiditate est repudiandae explicabo sit debitis nostrum hic ipsum quidem vel itaque id dignissimos, labore doloribus accusantium ducimus. Voluptatem sint accusantium dolor, vel quas doloremque praesentium blanditiis suscipit!
+    </p>
 
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -99,30 +102,33 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="image/Silverston.jpg" class="d-block w-100" id="img" alt="...">
+                <img src="image/Silverston.jpg" class="d-block" id="img" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="image/hamilton.jpg" class="d-block w-100" id="img" alt="...">
+                <img src="image/hamilton.jpg" class="d-block " id="img" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="image/lecler.jpg" class="d-block w-100" id="img" alt="...">
+                <img src="image/lecler.jpg" class="d-block" id="img" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
             data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
+            <span class="visually-hidden">course précédente</span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
             data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
+            <span class="visually-hidden">course suivante</span>
         </button>
     </div>
 
  </div>
 <footer>
-   <a href="#">A Propos </a>
+  <h4 class="text-center">A propos de Moi</h4>
+  
+  <img src="image/LH.jpg" alt="" id="img" class="d-block">
+  <P class="text-center">Je suis Mickaël Ajinça, en formuleje supporte Lewis Hamilton qui est le meilleur pilote de l'histoire de la F1, il est le plus grand champion de la catégorie avec la meilleure équipe de ses dernières années Mercedes F1 Team.</P>
 
 </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
