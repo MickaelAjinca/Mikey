@@ -54,7 +54,39 @@
             <a class="nav-link disabled">Disabled</a>
         </li>
     </ul>
+
     <h1 class="text-center display-4 my-4">Mikey</h1>
+ <div class="container">
+
+ <form class="row g-3">
+ <div class="col-auto">
+    <label for="pseudo" class="form-label">Pseudo</label>
+    <input type="text" class="form-control" id="pseudo">
+  </div>
+  <div class="col-auto">
+    <label for="mot_de_passe" class="form-label">Mot de passe</label>
+    <input type="text" class="form-control" id="mot_de_passe">
+  </div>
+  <div class="col-auto">
+    <label for="avis" class="form-label">Votez pour le pilote du jour</label>
+    <input type="text" class="form-control" id="avis">
+  </div>
+  <div class="col-auto">
+    <label for="np" class="form-label">Pilote du jour</label>
+    <input type="text" class="form-control" id="np" placeholder="Nom du pilote du jour">
+  </div>
+  <div class="col-auto">
+    <button type="submit" class="btn btn-primary mb-3">Envoyer l'avis</button>
+  </div>
+</form>
+
+
+<h1 class="text-center">Merci d'avoir voté</h1>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat voluptatum quod esse inventore impedit pariatur consequatur aperiam cupiditate est repudiandae explicabo sit debitis nostrum hic ipsum quidem vel itaque id dignissimos, labore doloribus accusantium ducimus. Voluptatem sint accusantium dolor, vel quas doloremque praesentium blanditiis suscipit!
+    </p>
+
+
 
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -88,10 +120,11 @@
         </button>
     </div>
 
-    <footer>
+ </div>
+<footer>
+   <a href="#">A Propos </a>
 
-    </footer>
-
+</footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
