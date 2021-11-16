@@ -77,6 +77,8 @@
 
 <h1 class="text-center">Merci d'avoir voté</h1>
 
+<h2 class="text-center">Test</h1>
+
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat voluptatum quod esse inventore impedit pariatur consequatur aperiam cupiditate est repudiandae explicabo sit debitis nostrum hic ipsum quidem vel itaque id dignissimos, labore doloribus accusantium ducimus. Voluptatem sint accusantium dolor, vel quas doloremque praesentium blanditiis suscipit!
     </p>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat voluptatum quod esse inventore impedit pariatur consequatur aperiam cupiditate est repudiandae explicabo sit debitis nostrum hic ipsum quidem vel itaque id dignissimos, labore doloribus accusantium ducimus. Voluptatem sint accusantium dolor, vel quas doloremque praesentium blanditiis suscipit!
