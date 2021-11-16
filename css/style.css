@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+nav {
+    background: firebrick;
+    height: 100px;
+}
+
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+img {
+    height: 300px;
+    width: 600px;
+}
+
+#imglh {
+    height: 200px;
+    width: 250px;
+}
